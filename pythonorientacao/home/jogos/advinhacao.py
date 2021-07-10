@@ -1,7 +1,10 @@
-def jogar():
+def imprime_mensagem_abertura():
     print('******************************')
     print('* Jogo da adivinhação *')
     print('******************************')
+
+def jogar():
+    imprime_mensagem_abertura()
 
     numero_secreto = 42
     total_de_tentativas = 3

@@ -1,1 +1,0 @@
-#exercício do triangulo

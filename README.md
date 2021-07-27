@@ -1,10 +1,10 @@
 <h1 align="center">Python exercices resolution</h1>
 <p align="center">Resoluções dos exercícios do Curso em Vídeo de Gustavo Guanabara.</p>
 
-### Curso em Vídeo
+### Lista de exercícios Python Brasil
 ---
 
-<a href="https://www.cursoemvideo.com/" title="Site"><b>Acesse o site</b></a></br>
+<a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>
 <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo/featured" title="Canal"><b>Canal do Youtube</b></a>
 
 O principal diferencial do curso é ele ser gratuito e a quantidade de exercícios práticos personalizados.

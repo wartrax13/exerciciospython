@@ -3,8 +3,16 @@
 
 ### Lista de exercícios Python Brasil
 ---
-<b>Directory "Lista de exercícios PYTHON BR</b>
+<b>Directory "Lista de exercícios PYTHON BR"</b>
+<b>São mais de 80 exercícios resolvidos por mim.</b>
 <a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>
+
+
+### Introdução à programação com Python - Algorítmos e lógica de programação
+<b>Directory "Livro Nilo Ney - Programação Python"</b>
+
+---
+
 
 ### Autor
 ---

@@ -6,11 +6,11 @@
 <b>Directory "Lista de exercícios PYTHON BR"</b><br>
 <b>São mais de 80 exercícios resolvidos por mim.</b><br>
 <a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>
----
+
 ### Introdução à programação com Python - Algorítmos e lógica de programação
 <b>Directory "Livro Nilo Ney - Programação Python"</b><br>
 <b>São mais de 20 exercícios resolvidos.</b><br>
----
+
 ### Python e Orientação a objetos - ALURA
 <b>Directory "pythonorientacao"</b><br>
 <b>Exercício de orientação a objetos da apostila da ALURA.</b><br>

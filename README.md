@@ -1,8 +1,8 @@
 <h1 align="center">Python exercices resolution</h1>
 <p align="center">Resoluções dos exercícios do Curso em Vídeo de Gustavo Guanabara.</p>
+---
 
 ### Lista de exercícios Python Brasil
----
 <b>Directory "Lista de exercícios PYTHON BR"</b><br>
 <b>São mais de 80 exercícios resolvidos por mim.</b><br>
 <a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>

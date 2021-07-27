@@ -10,5 +10,4 @@ r = 0
 while x <= s:
     r = r + p
     x = x + 1
-print("%d x %d = %d" % (p,s,r))
-
+    print(r)

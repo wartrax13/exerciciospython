@@ -3,7 +3,7 @@
 
 ### Lista de exercícios Python Brasil
 ---
-<b>Directory "Lista de exercícios PYTHON BR"</b>
+<b>Directory "Lista de exercícios PYTHON BR"</b><b\>
 <b>São mais de 80 exercícios resolvidos por mim.</b>
 <a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>
 

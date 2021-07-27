@@ -3,19 +3,8 @@
 
 ### Lista de exercícios Python Brasil
 ---
-
+<b>Directory "Lista de exercícios PYTHON BR</b>
 <a href="https://wiki.python.org.br/ListaDeExercicios" title="Site"><b>Acesse o site</b></a></br>
-<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo/featured" title="Canal"><b>Canal do Youtube</b></a>
-
-O principal diferencial do curso é ele ser gratuito e a quantidade de exercícios práticos personalizados.
-Os exercícios acompanham as aulas e o conteúdo abordado e tem um caráter gradual. 
-O curso foi divido em 3 categorias:</br>
-<b>Mundo 1</b> - Fundamentos: Operações aritméticas, módulos e condições</br>
-<b>Mundo 2</b> - Estruturas de controle: repetição</br>
-<b>Mundo 3</b> - Estruturas compostas: Tuplas, listas, dicionários, funções, módulos e treinamento de erros</br>
-
-Playlist com <a href="https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-" title="Exercício"><b>todos os exercícios.</b></a>
-
 
 ### Autor
 ---

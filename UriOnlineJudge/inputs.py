@@ -1,4 +1,6 @@
 
-for x in range(102):
-    if x > 1 and x % 2 == 0:
-        print(x)
+
+nums = [2,7,11,15]
+target = 9
+
+

@@ -1,6 +1,5 @@
 
 
-nums = [2,7,11,15]
-target = 9
-
-
+x = ('Pedro', 26), ('Felipe', 21), ('Roberto', 36)
+for nome, idade in x:
+    print(nome)

@@ -1,3 +1,5 @@
-a, b, c = [int(x) for x in input().split()]
 
-print(a)
+
+
+a = 5
+print(a // 2)

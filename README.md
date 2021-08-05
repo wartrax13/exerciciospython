@@ -1,5 +1,5 @@
 <h1 align="center">Python exercices resolution</h1>
-<p align="center">Resoluções dos exercícios do Curso em Vídeo de Gustavo Guanabara.</p>
+<p align="center">Resoluções de exercícios</p>
 
 ---
 

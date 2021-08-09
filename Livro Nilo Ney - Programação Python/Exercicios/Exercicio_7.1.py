@@ -1,4 +1,13 @@
-def count_substring(string, sub_string):
+s = 'AABBEFAATT'
+substring = 'BE'
+p = 0
+while p > -1:
+    p = s.find(substring, p)
+    if p >= 0:
+        print(f'Posição: {p}')
+        p += 1
+
+'''def count_substring(string, sub_string):
     count = 0
     for i in range(len(string)):
         if string[i:len(sub_string)+i] == sub_string:
@@ -11,4 +20,4 @@ if __name__ == '__main__':
     sub_string = input().strip()
 
     count = count_substring(string, sub_string)
-    print(count)
+    print(count)'''
